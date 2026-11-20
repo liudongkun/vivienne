@@ -13,9 +13,9 @@ Yuki is a separate project by the Standalone author. Its presentation informed t
 
 ## Artwork
 
-`assets/vivienne-poster.png` is AI-generated original character concept artwork created for this project with OpenAI image generation. It depicts a fictional adult character and is not a screenshot of the application or a real person.
+`assets/vivienne-poster.png` is AI-generated original character concept artwork created for this project with OpenAI image generation. `assets/vivienne-banner.png` is its landscape adaptation with the English tagline, used on the introduction pages. Both depict a fictional adult character and are not screenshots of the application or a real person.
 
-The source image has been preserved without retouching. The name and artwork are a new visual identity for the existing personal prototype; their integration into the application remains ongoing.
+The original portrait image is preserved. The landscape banner was recomposed and its typography edited with image generation. The name and artwork are a new visual identity for the existing personal prototype; their integration into the application remains ongoing.
 
 ## What is published
 

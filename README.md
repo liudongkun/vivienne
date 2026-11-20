@@ -4,9 +4,7 @@
 
 ### 你的私人 AI 管家，也是日常里的伙伴。
 
-Your days, thoughtfully cared for.
-
-<img src="assets/vivienne-poster.png" alt="Vivienne 原创角色概念海报：薇薇安在阳光下的书房里，拿着日程本，向你递来一杯茶。" width="440">
+<img src="assets/vivienne-banner.png" alt="Vivienne 横版封面：Your days, thoughtfully cared for. 薇薇安在阳光下的书房里，拿着日程本，向你递来一杯茶。" width="100%">
 
 <p><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
 <p><a href="#认识-vivienne">认识 Vivi</a> · <a href="#她现在能帮你做什么">现有能力</a> · <a href="#接下来">接下来</a> · <a href="#项目来源">项目来源</a></p>

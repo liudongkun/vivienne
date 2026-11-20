@@ -4,9 +4,7 @@
 
 ### A personal AI steward, and a companion for everyday life.
 
-Your days, thoughtfully cared for.
-
-<img src="assets/vivienne-poster.png" alt="Original Vivienne character concept: an attentive steward in a sunlit study, holding a planner and offering a cup of tea." width="440">
+<img src="assets/vivienne-banner.png" alt="Vivienne landscape cover: Your days, thoughtfully cared for. An attentive steward in a sunlit study, holding a planner and offering a cup of tea." width="100%">
 
 <p><a href="README.md">简体中文</a> · <strong>English</strong></p>
 <p><a href="#meet-vivienne">Meet Vivi</a> · <a href="#what-the-prototype-can-do">Capabilities</a> · <a href="#next">Next</a> · <a href="#origins">Origins</a></p>
