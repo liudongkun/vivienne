@@ -1,0 +1,9 @@
+# This repository is deliberately limited to showcase files.
+*
+!/.gitignore
+!/README.md
+!/README.en.md
+!/CREDITS.md
+!/assets/
+/assets/*
+!/assets/vivienne-poster.png
